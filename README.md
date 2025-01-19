@@ -71,7 +71,8 @@ For more details, check the **MIT License**.
 
 Got questions, feedback, or suggestions? Don’t hesitate to reach out:
 
-- Email: **manaskishoredev@gmail.com**
+- Email 1: **manaskishoredev@gmail.com**
+- Email 2: **ryash1472008@gmail.com**
 - GitHub Issues: [https://github.com/manas-kishore-dev/HeliousEngine/issues](https://github.com/manas-kishore-dev/HeliousEngine/issues)
 
 ---
