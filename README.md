@@ -33,14 +33,6 @@ Welcome to **HELIOUS ENGINE**! A **free and open-source** game engine designed t
 With these technologies, **HELIOUS ENGINE** offers a powerful foundation for creating visually stunning and high-performance games.
 
 
-## 🌍 Community
-
-**HELIOUS ENGINE** is driven by its amazing community. Join us to contribute, learn, and collaborate:
-
-- **GitHub**: [https://github.com/manas-kishore-dev/HeliousEngine](https://github.com/manas-kishore-dev/HeliousEngine)
-- **Discord**: Connect with other developers and share your progress.
-- **Forums**: Get support, discuss features, and share your games with the community.
-
 ## 🛠️ Contributing
 
 We welcome contributions from everyone! Whether you’re improving documentation or adding new features, here’s how you can contribute:
