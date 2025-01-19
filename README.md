@@ -1,5 +1,3 @@
-
-
 # HELIOUS ENGINE 🚀🎮
 
 Welcome to **HELIOUS ENGINE**! A **free and open-source** game engine designed to offer **AAA-quality graphics** and **high-performance tools** for **indie game developers**. Built by **Manas-Kishore Dev** and **YashTheAlien**, **HELIOUS ENGINE** enables you to create stunning and high-performance games, all while being **completely free** and **open-source**.
@@ -16,11 +14,13 @@ Welcome to **HELIOUS ENGINE**! A **free and open-source** game engine designed t
 ## 🚀 Why Choose **HELIOUS ENGINE**?
 
 ### 🎯 **Free & Open-Source**
+
 - **No Licensing Fees**: **HELIOUS ENGINE** is completely **free** for both **personal** and **commercial** use. Build and release your games without worrying about licensing fees.
 - **Open & Transparent**: The **source code** of **HELIOUS ENGINE** is fully available on **GitHub**, so you can inspect, modify, and enhance the engine. You control the engine’s functionality.
 - **Collaborative Development**: As an open-source project, **HELIOUS ENGINE** welcomes contributions. Help improve the engine, fix bugs, add new features, or improve the documentation.
 
 ### 👥 **Community Driven**
+
 - **GitHub**: The development of **HELIOUS ENGINE** is driven by the community. Join us on GitHub to contribute, suggest features, and report issues.
 - **Discord**: Join our growing community of developers and collaborate with others on our **Discord** server.
 - **Forums**: Share your projects, get feedback, and participate in discussions with other developers.
@@ -31,7 +31,6 @@ Welcome to **HELIOUS ENGINE**! A **free and open-source** game engine designed t
 - **OpenGL**: The engine utilizes **OpenGL** for rendering, delivering high-quality graphics with features like real-time ray tracing, advanced shaders, and dynamic lighting effects.
 
 With these technologies, **HELIOUS ENGINE** offers a powerful foundation for creating visually stunning and high-performance games.
-
 
 ## 🛠️ Contributing
 
