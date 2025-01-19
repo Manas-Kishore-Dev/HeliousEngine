@@ -4,7 +4,7 @@
         {
             "type": "cppbuild",
             "label": "C/C++: g++.exe build active file",
-            "command": "C:/MinGW/bin/g++.exe",
+            "command": "C:/msys64/ucrt64/bin/g++.exe",
             "args": [
                 "-g",
                 "-std=c++17",
@@ -26,7 +26,7 @@
                 "kind": "build",
                 "isDefault": true
             },
-            "detail": "compiler: C:/C:/path/to/g++.exe"
+            "detail": "compiler: C:/msys64/ucrt64/bin/g++.exe"
         }
     ]
 }
