@@ -68,6 +68,4 @@ Got questions, feedback, or suggestions? Don’t hesitate to reach out:
 
 ---
 
-**HELIOUS ENGINE** empowers you to build **AAA-quality games** with powerful tools, all for **free**! Start developing today and join the growing community of indie developers. 🚀🎮
 
----
