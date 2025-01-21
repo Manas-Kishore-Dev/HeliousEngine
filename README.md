@@ -1,5 +1,5 @@
-# HELIOUS ENGINE 🚀🎮
-
+# HELIOUS ENGINE 🚀🎮<br>
+<img src = "./logo.png"><br>
 Welcome to **HELIOUS ENGINE**! A **free and open-source** game engine designed to offer **AAA-quality graphics** and **high-performance tools** for **indie game developers**. Built by **Manas-Kishore Dev** and **YashTheAlien**, **HELIOUS ENGINE** enables you to create stunning and high-performance games, all while being **completely free** and **open-source**.
 
 ## 🌟 Key Features
@@ -68,6 +68,4 @@ Got questions, feedback, or suggestions? Don’t hesitate to reach out:
 
 ---
 
-**HELIOUS ENGINE** empowers you to build **AAA-quality games** with powerful tools, all for **free**! Start developing today and join the growing community of indie developers. 🚀🎮
 
----
